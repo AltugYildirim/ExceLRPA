@@ -1,2 +1,2 @@
-# ExceLRPA
+# ExcelRPA
 Excel functions
